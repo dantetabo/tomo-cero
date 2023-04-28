@@ -1,0 +1,26 @@
+*{
+    font-family: 'DM Sans', sans-serif;
+    padding: 0;
+    margin: 0;
+    -webkit-box-sizing: none;
+            box-sizing: none;
+    text-decoration: none;
+    list-style: none;
+    
+}                                                                       
+
+.btnSlide {
+    border-radius: 20px;
+}
+
+.cardNueva {
+    border-radius:0;
+}
+
+.logos-mangas {
+    opacity:50%;
+}
+
+.logos-mangas:hover {
+    opacity:100%;
+}
